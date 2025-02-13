@@ -1,0 +1,3 @@
+[submodule "STJuliaIntroBayesian"]
+	path = STJuliaIntroBayesian
+	url = https://github.com/ax90l0tl/STJuliaIntroBayesian.git
